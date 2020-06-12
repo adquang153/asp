@@ -1,0 +1,19 @@
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.BusinessLayers.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.BusinessLayers.pdb
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DomainModels.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DomainModels.pdb
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.csprojResolveAssemblyReference.cache
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.pdb
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DataLayers.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DataLayers.pdb
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.BusinessLayers.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.BusinessLayers.pdb
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DataLayers.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DomainModels.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DomainModels.pdb
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.BusinessLayers\bin\Debug\LiteCommerce.DataLayers.pdb
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.csprojAssemblyReference.cache
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.csproj.CopyComplete
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.BusinessLayers\obj\Debug\LiteCommerce.BusinessLayers.pdb

@@ -1,0 +1,15 @@
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommmerce.DataLayers\bin\Debug\LiteCommerce.DomainModels.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommmerce.DataLayers\bin\Debug\LiteCommerce.DomainModels.pdb
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommmerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.csprojResolveAssemblyReference.cache
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommmerce.DataLayers\bin\Debug\LiteCommerce.DataLayers.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommmerce.DataLayers\bin\Debug\LiteCommerce.DataLayers.pdb
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommmerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommmerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.pdb
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommmerce.DataLayers\bin\Debug\LiteCommerce.DataLayers.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommmerce.DataLayers\bin\Debug\LiteCommerce.DataLayers.pdb
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommmerce.DataLayers\bin\Debug\LiteCommerce.DomainModels.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommmerce.DataLayers\bin\Debug\LiteCommerce.DomainModels.pdb
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommmerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.csprojAssemblyReference.cache
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommmerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.csproj.CopyComplete
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommmerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommmerce.DataLayers\obj\Debug\LiteCommerce.DataLayers.pdb

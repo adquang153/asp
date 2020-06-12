@@ -1,0 +1,119 @@
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\ApplicationInsights.config
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\roslyn\csc.exe
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\roslyn\vbc.exe
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\roslyn\VBCSCompiler.exe
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.Admin.dll.config
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.Admin.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.Admin.pdb
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Antlr3.Runtime.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.BusinessLayers.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.DomainModels.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.Web.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Newtonsoft.Json.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\System.Web.Helpers.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\System.Web.Mvc.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\System.Web.Optimization.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\System.Web.Razor.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\System.Web.WebPages.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\System.Web.WebPages.Razor.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\WebGrease.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.BusinessLayers.pdb
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.DomainModels.pdb
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.Web.xml
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\System.Web.Helpers.xml
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\System.Web.Mvc.xml
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\System.Web.Optimization.xml
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\System.Web.Razor.xml
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\System.Web.WebPages.xml
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\System.Web.WebPages.Razor.xml
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Antlr3.Runtime.pdb
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\Newtonsoft.Json.xml
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\obj\Debug\LiteCommerce.Admin.csprojResolveAssemblyReference.cache
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\obj\Debug\LiteCommerce.Admin.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\obj\Debug\LiteCommerce.Admin.pdb
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.DataLayers.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.DataLayers.pdb
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\ApplicationInsights.config
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\roslyn\csc.exe
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\roslyn\vbc.exe
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.Admin.dll.config
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.Admin.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.Admin.pdb
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Antlr3.Runtime.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.BusinessLayers.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.DataLayers.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.DomainModels.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.Web.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Newtonsoft.Json.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\System.Web.Helpers.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\System.Web.Mvc.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\System.Web.Optimization.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\System.Web.Razor.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\System.Web.WebPages.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\WebGrease.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.BusinessLayers.pdb
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.DomainModels.pdb
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\LiteCommerce.DataLayers.pdb
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.Web.xml
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\System.Web.Helpers.xml
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\System.Web.Mvc.xml
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\System.Web.Optimization.xml
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\System.Web.Razor.xml
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\System.Web.WebPages.xml
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Antlr3.Runtime.pdb
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\bin\Newtonsoft.Json.xml
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\obj\Debug\LiteCommerce.Admin.csprojAssemblyReference.cache
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\obj\Debug\LiteCommerce.Admin.csproj.CopyComplete
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\obj\Debug\LiteCommerce.Admin.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.Admin\obj\Debug\LiteCommerce.Admin.pdb

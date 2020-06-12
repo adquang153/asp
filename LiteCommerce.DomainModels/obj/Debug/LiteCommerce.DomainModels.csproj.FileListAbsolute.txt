@@ -1,0 +1,9 @@
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.DomainModels\bin\Debug\LiteCommerce.DomainModels.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.DomainModels\bin\Debug\LiteCommerce.DomainModels.pdb
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.DomainModels\obj\Debug\LiteCommerce.DomainModels.dll
+C:\Users\PHAN HUNG\documents\visual studio 2015\Projects\LiteCommerce\LiteCommerce.DomainModels\obj\Debug\LiteCommerce.DomainModels.pdb
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.DomainModels\bin\Debug\LiteCommerce.DomainModels.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.DomainModels\bin\Debug\LiteCommerce.DomainModels.pdb
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.DomainModels\obj\Debug\LiteCommerce.DomainModels.dll
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.DomainModels\obj\Debug\LiteCommerce.DomainModels.pdb
+C:\Users\Quang\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\LiteCommerce\LiteCommerce.DomainModels\obj\Debug\LiteCommerce.DomainModels.csprojAssemblyReference.cache
